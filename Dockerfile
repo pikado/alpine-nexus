@@ -1,4 +1,3 @@
-[docker@CNOL5060 v1.1]$ cat Dockerfile 
 FROM alpine
 LABEL maintener="pokido99@gmail.com"
 
